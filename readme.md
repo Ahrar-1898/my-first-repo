@@ -1,4 +1,4 @@
-# the best github repo out there 
+# The best github repo out there 
 This is my read me 
 the best way are:
 -Eat
@@ -6,4 +6,4 @@ the best way are:
 -Code
 -Repeat
 
-thank you
+Thank You!
