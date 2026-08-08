@@ -1,13 +1,11 @@
 # this is python file for hello
 import pandas as pd 
+import sklearn 
 import numpy as np
 print("hello.py")
 
 
 print("hello world")
+print("End")
 
-<<<<<<< Updated upstream
-print("End")
-=======
-print("End")
->>>>>>> Stashed changes
+print("Thanks for using the script!")
